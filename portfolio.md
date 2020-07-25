@@ -24,19 +24,19 @@ A Discord bot I created for the LSU Computer Society's Discord server. It allows
 ## Streaming | LSU Video Game Society
 ### Event-wide, weekend-long Streaming Infrastructure 
 Infrastructure set up over a LAN hall which utilises NDI to locally stream to a computer which deals with the master stream to Twitch. These "micro-streams" can be turned on and off from anywhere during the event and will not affect the uptime of the master stream. Allows for persistence of stream but grants the flexibility of showing off every part of our LAN events.
-<iframe src="https://player.twitch.tv/?collection=Z4jjB_9w2hUJEQ&video=506719310&time=0h12m2s&parent=Darkchaos2.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
-<iframe src="https://clips.twitch.tv/embed?clip=SpeedyDreamyDonkeyMoreCowbell&parent=Darkchaos2.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://player.twitch.tv/?collection=Z4jjB_9w2hUJEQ&video=506719310&time=0h12m2s&parent=Darkchaos2.github.io&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=SpeedyDreamyDonkeyMoreCowbell&parent=Darkchaos2.github.io&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 ### Immersive VR User Experience
 Green screen set up with a virtual reality headset to be able to capture footage of members being inside of the games they play at our events.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LdDq4_64nbU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe src="https://clips.twitch.tv/embed?clip=SpunkyChillyGaurDansGame&parent=Darkchaos2.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
-<iframe src="https://clips.twitch.tv/embed?clip=HelplessAbstruseStorkNotATK&parent=Darkchaos2.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=SpunkyChillyGaurDansGame&parent=Darkchaos2.github.io&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=HelplessAbstruseStorkNotATK&parent=Darkchaos2.github.io&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 ### Intractable Tournament Stream Overlay
 
-<iframe src="https://clips.twitch.tv/embed?clip=CoyDarkCattleThunBeast&parent=Darkchaos2.github.io&time=14s" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
-<iframe src="https://clips.twitch.tv/embed?clip=RepleteMotionlessSoybeanJebaited&parent=Darkchaos2.github.io&time=30s" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=CoyDarkCattleThunBeast&parent=Darkchaos2.github.io&autoplay=false&time=14s" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=RepleteMotionlessSoybeanJebaited&parent=Darkchaos2.github.io&autoplay=false&time=30s" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 [Repo Link](https://github.com/Darkchaos2/LSUVGS-Smash-Overlay)
 
 ### Custom Scene Collection Installer
