@@ -1,27 +1,31 @@
 ---
 title: Portfolio
 permalink: /portfolio/
+layout: page
 ---
-
 
 # My Projects
 
 There are some of the publicly available project I have worked on and that I am proud of! This is not an exhaustive list as some projects are private. You can find more about these projects on my CV.
 
 ## Programming
-### Beat Saber Everywhere
+### Beat Saber Everywhere ![Node.js](/assets/i/node.svg){:.logo} | [GitHub](https://github.com/Darkchaos2/DisAintThatGreatSaber)
 In the never ending journey to quench my ever growing love for Beat Saber while not owning the equipment to do so, I attempt to satisfy these needs by producing ports to different platforms. After recreating this masterpiece of a game in the Nintendo Labo's garage, I found this was not enough. As part of a hack week Discord hosted in the summer of 2019, I found my chance to further fulfill my dreams by producing a playable version of Beat Saber inside of Discord.
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/95dYQLvREIg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[Repo Link](https://github.com/Darkchaos2/DisAintThatGreatSaber)
 
-### Discord Bot for Role Automation
+### Discord Bot for Role Automation ![Node.js](/assets/i/node.svg){:.logo} | [GitHub](https://github.com/Darkchaos2/Botty-Rewrite)
 A Discord bot I created for the LSU Computer Society's Discord server. It allows members to assign themselves roles that allows then to get notification about the game role when people want to play. Also contains administrative features like a mass role wiper.
 
-[Repo Link](https://github.com/Darkchaos2/Botty-Rewrite)
+### Web-based Intractable Overlay for Streams ![HTML](/assets/i/html.png){:.logo} ![CSS](/assets/i/css.png){:.logo} ![JavaScript](/assets/i/js.png){:.logo} | [GitHub](https://github.com/Darkchaos2/LSUVGS-Smash-Overlay)
+This streaming overlay is based of NodeCG, allowing for a webpage to be animated and changed without having to refresh that page. This wepage can then be used to show stream data, such as current players or scores, and for this data to be changed or modified seemlessly while still being live. Events are send from the admin panel which then trigger animations to hide the old information before injecting the new information and re-revealing it to the stream. It also auto-scales names, for those players who are fixated on using ridiculously long usernames.
 
-### Web-based Intractable Overlay for Streams
-[See Intractable Tournament Stream Overlay](#intractable-tournament-stream-overlay)
+[To see more about how this was used, check out the LSUVGS section](#intractable-tournament-stream-overlay)
+
+### Custom Scene Collection Installer ![C#](/assets/i/csharp.svg){:.logo} | [GitHub](https://github.com/Darkchaos2/VGS-OBS-Scene-Collection-Installer)
+This C# program compiles into a single executable which automates the installation of OBS scenes. This automatically opens the default location of OBS's installation directory, but also gives the user the option to change it, if thjeir installation isn't the default. It then copys assets and pre-configured OBS scenes to this directory.
+
+[To see more about how this was used, check out the LSUVGS section](#Custom-Scene-Collection-Installer)
+
 
 ## Streaming | LSU Video Game Society
 ### Event-wide, weekend-long Streaming Infrastructure 
@@ -36,15 +40,16 @@ Green screen set up with a virtual reality headset to be able to capture footage
 <iframe src="https://clips.twitch.tv/embed?clip=HelplessAbstruseStorkNotATK&parent=Darkchaos2.github.io&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 ### Intractable Tournament Stream Overlay
-I created this nodecg based web-overlay to allow viewers of the stream to follow the current progression of our Smash tournaments. It also allows for dynamic changing of settings like player names and scores. This does this all seamlessly using animations. It also auto-scales names, for those players who are fixated on using ridiculously long usernames.
+This web-based overlay can be imported as a browser source into your streaming software and is used to display the current state of the smash tournament data. It can be controlled from the admin panel and can seemlessly change infoamtion such as the current players, bracket and scores.
+
+[To see more about how this works on a technical level, check out the Project section](#web-based-intractable-overlay-for-streams-html-css-javascript--github)
 <iframe src="https://clips.twitch.tv/embed?clip=CoyDarkCattleThunBeast&parent=Darkchaos2.github.io&autoplay=false&time=14s" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 <iframe src="https://clips.twitch.tv/embed?clip=RepleteMotionlessSoybeanJebaited&parent=Darkchaos2.github.io&autoplay=false&time=30s" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
-[Repo Link](https://github.com/Darkchaos2/LSUVGS-Smash-Overlay)
 
 ### Custom Scene Collection Installer
-I made an executable application that will install the societies assets to the members OBS Scene Collection folder. Allows users to use our brand and overlay scheme when they streamed on our behalf.
+This executable makes it easy for members to use LSUVGS's assets and themes without having to reconfigure it on every installation. Users can simpily run the installer and the pre-configured scenes will be injected into their OBS.
 
-[Repo Link](https://github.com/Darkchaos2/VGS-OBS-Scene-Collection-Installer)
+[To see more about how this works on a technical level, check out the Project section](#custom-scene-collection-installer-c--github)
 
 ## Video Editing
 ### Society Trailer | LSU Video Game Society
