@@ -1,3 +1,4 @@
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+remote_theme: lorepirri/cayman-blog
 title: Louis 'Darkchaos' James
 description: My username isn't as edgy as it looks, trust me!
