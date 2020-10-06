@@ -41,14 +41,14 @@ Green screen set up with a virtual reality headset to be able to capture footage
 ### Intractable Tournament Stream Overlay
 This web-based overlay can be imported as a browser source into your streaming software and is used to display the current state of the smash tournament data. It can be controlled from the admin panel and can seemlessly change infoamtion such as the current players, bracket and scores.
 
-[To see more about how this works on a technical level, check out the Project section](#web-based-intractable-overlay-for-streams-html-css-javascript--github)
+[To see more about how this works on a technical level, check out the Project section](#web-based-intractable-overlay-for-streams-----github)
 <iframe src="https://clips.twitch.tv/embed?clip=CoyDarkCattleThunBeast&parent=Darkchaos2.github.io&autoplay=false&time=14s" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 <iframe src="https://clips.twitch.tv/embed?clip=RepleteMotionlessSoybeanJebaited&parent=Darkchaos2.github.io&autoplay=false&time=30s" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 ### Custom Scene Collection Installer
 This executable makes it easy for members to use LSUVGS's assets and themes without having to reconfigure it on every installation. Users can simpily run the installer and the pre-configured scenes will be injected into their OBS.
 
-[To see more about how this works on a technical level, check out the Project section](#custom-scene-collection-installer-c--github)
+[To see more about how this works on a technical level, check out the Project section](#custom-scene-collection-installer---github)
 
 ## Video Editing
 ### Society Trailer | LSU Video Game Society
