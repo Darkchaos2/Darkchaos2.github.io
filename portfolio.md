@@ -26,7 +26,7 @@ This streaming overlay is based of NodeCG, allowing for a webpage to be animated
 ### Custom Scene Collection Installer ![C#](/assets/i/csharp.svg){:.logo} | [GitHub](https://github.com/Darkchaos2/VGS-OBS-Scene-Collection-Installer)
 This C# program compiles into a single executable which automates the installation of OBS scenes. This automatically opens the default location of OBS's installation directory, but also gives the user the option to change it, if their installation isn't the default. It then copies assets and pre-configured OBS scenes to this directory.
 
-[To see more about how this was used, check out the LSUVGS section](#Custom-Scene-Collection-Installer)
+[To see more about how this was used, check out the LSUVGS section](#custom-scene-collection-installer)
 
 
 ## Streaming | LSU Video Game Society
