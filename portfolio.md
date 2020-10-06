@@ -12,6 +12,9 @@ These are some of the publicly available project I have worked on and that I am 
 In the never ending journey to quench my ever growing love for Beat Saber while not owning the equipment to do so, I attempt to satisfy these needs by producing ports to different platforms. After recreating this masterpiece of a game in the Nintendo Labo's garage, I found this was not enough. As part of a hack week Discord hosted in the summer of 2019, I found my chance to further fulfill my dreams by producing a playable version of Beat Saber inside of Discord.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/95dYQLvREIg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### BeatSaber Scripting ![Node.js](/assets/i/node.svg){:.logo} ![Python](/assets/i/python.svg){:.logo} | [GitHub](https://github.com/Darkchaos2/BeatMap-drift)
+I enjoy creating beat maps of songs for other to play on Beat Saber. To assist me with this, especially when using the NoodleExtensions plugin, I like to create scripts to assist in the map creation. This repository contains the base beat map, alongside the scripts used to generate the NoodleExtension note paths. As these beat maps are JSON based, the original scripts were created in JavaScript, however, I ended up porting them to Python just for fun. 
+
 ### Discord Bot for Role Automation ![Node.js](/assets/i/node.svg){:.logo} | [GitHub](https://github.com/Darkchaos2/Botty-Rewrite)
 A Discord bot I created for the LSU Computer Society's Discord server. It allows members to assign themselves roles that allows then to get notification about the game role when people want to play. Also contains administrative features like a mass role wiper.
 
