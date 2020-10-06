@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
 title: Louis 'Darkchaos' James
 description: My username isn't as edgy as it looks, trust me!
+
+# remote_theme: daattali/beautiful-jekyll@4.0.1
+plugins:
+  # - jekyll-remote-theme
